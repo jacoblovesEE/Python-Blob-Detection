@@ -1,5 +1,9 @@
 Background subtraction and blob detection using OpenCV 
 
+![image](https://github.com/jacoblovesEE/Python-Blob-Detection/assets/171279630/d3eb4ef2-9604-4eb2-b3e7-6a0ac1135d86)
+
+
+
 eliminating the background from a video by extracting the moving foreground from the static background 
 identifies foreground blobs and draws a red circle around them by identifying connected regions in binary images. 
 
